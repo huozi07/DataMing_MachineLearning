@@ -1,0 +1,7 @@
+1.Normalization
+2.Covariance
+3.covariance matrix
+4.eigenvalue and eigenvector
+5.sort eigenvalue 
+6.save topK eigenvalue
+7.transfer data to new space constructed by topK eigenvector
